@@ -1,0 +1,8 @@
+{
+    "db": {
+        "username": "MYSQL_USERNAME",
+        "password": "MYSQL_PASSWORD",
+        "host": "MYSQL_HOST",
+        "name": "NODE_ORM_TYPEORM_DBNAME"
+    }
+}
